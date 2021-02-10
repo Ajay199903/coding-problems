@@ -1,2 +1,2 @@
-# coding-problems
-Solutions of various coding problems
+<div align = "center"> # Solutions of LeetCode Problems </div>
+
